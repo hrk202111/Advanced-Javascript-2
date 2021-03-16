@@ -35,3 +35,7 @@ const isThere = numbers.find(x => x > 5)
 console.log(isThere);
 
 
+// map er kisu vai brother ace
+// 
+
+
